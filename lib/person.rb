@@ -1,4 +1,4 @@
-class Dog 
+class Person 
   def name=(dogs_name)
     @name = dogs_name
   end 
