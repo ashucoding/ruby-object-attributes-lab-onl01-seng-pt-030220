@@ -16,8 +16,3 @@ class Dog
   end
 end
 
-rusty = Dog.new("Rusty") 
-rusty.name
-
-huskie = Dog.new("Huskie")
-huskie.breed
